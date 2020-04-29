@@ -65,3 +65,6 @@ Obrigado a todos os contirbuidores:
 ## 📖 Licença
 
 Este projeto está licenciado sob a licença **MPL 2.0**.
+"# botInteligenciaArtificialDiscord" 
+"# botInteligenciaArtificialDiscord" 
+"# botInteligenciaArtificialDiscord" 
